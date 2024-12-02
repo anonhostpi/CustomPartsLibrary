@@ -18,4 +18,4 @@ A custom ldraw parts library for custom lego
 # 1L Bar Piece:
 ![image](https://github.com/anonhostpi/CustomPartsLibrary/assets/130698314/ec629666-de6d-419e-82b2-127b38216e00)
 
-- [1L Bar Piece (Cat 3L Bar Piece - Does Not Require 3D Printing)](https://github.com/anonhostpi/CustomPartsLibrary/blob/main/Bar%20%20%201L%20(Cut%20Bar%203L).dat)
+- [1L Bar Piece (Cut 3L Bar Piece - Does Not Require 3D Printing, just cut the part)](https://github.com/anonhostpi/CustomPartsLibrary/blob/main/Bar%20%20%201L%20(Cut%20Bar%203L).dat)
